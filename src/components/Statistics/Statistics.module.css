@@ -1,0 +1,11 @@
+.title {
+  color: rgb(5, 68, 47);
+  margin-bottom: 15px;
+}
+.list {
+  list-style: none;
+}
+.item {
+  color: rgb(5, 68, 47);
+  margin: 3px;
+}
